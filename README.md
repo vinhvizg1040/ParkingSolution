@@ -1,8 +1,15 @@
 # Parking Solution - Parking Management
-- Spring RestFul API
-- Spring MVC
-- Android app with java
+|----|Status|
+|----|----|
+|Spring RestFul API | maintenance :man_technologist:|
+|Spring MVC | maintenance :man_technologist:|
+|Android app with java |closing :warning:|
 
-# Parking Management
 
-> :running: :construction_worker: 
+
+  
+
+# Todo
+
+ - [ ] Convert Spring MVC using Thymeleaf to a new  Reactjs project. 
+	 - [ ]  ...
