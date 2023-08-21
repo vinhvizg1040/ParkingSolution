@@ -6,10 +6,8 @@
 |Android app with java |closing :warning:|
 
 
-
-  
-
 # Todo
 
- - [ ] Convert Spring MVC using Thymeleaf to a new  Reactjs project. 
+ - [ ] use MySQL instead of MSSQL.
+ - [ ] Convert Spring MVC used Thymeleaf to a new  Reactjs project.
 	 - [ ]  ...
