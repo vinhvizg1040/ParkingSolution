@@ -8,6 +8,6 @@
 
 # Todo
 
- - [ ] use MySQL instead of MSSQL.
+ - [x] use MySQL instead of MSSQL.
  - [ ] Convert Spring MVC used Thymeleaf to a new  Reactjs project.
 	 - [ ]  ...
